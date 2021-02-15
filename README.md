@@ -1,11 +1,11 @@
 ### Warning Teksial
 This stack must be removed when the ACK Api Gateway release is ready.
 
-`https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/` 
+https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/
 
-`https://aws-controllers-k8s.github.io/community/services/`
+https://aws-controllers-k8s.github.io/community/services/
 
-`https://github.com/aws-controllers-k8s/apigatewayv2-controller`
+https://github.com/aws-controllers-k8s/apigatewayv2-controller
 
 # Amazon API Gateway Ingress Controller
 
