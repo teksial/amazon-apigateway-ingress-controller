@@ -1,3 +1,7 @@
+### Warning Teksial
+This stack must be removed when the ACK Api Gateway release is ready.
+https://aws-controllers-k8s.github.io/community/services/
+
 # Amazon API Gateway Ingress Controller
 
 ## Getting Started
